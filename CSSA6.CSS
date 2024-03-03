@@ -1,0 +1,63 @@
+
+.navbar{
+    
+
+    height: 50px;
+    width: 50px;
+    margin-top: 70px;
+    margin-left: 100px;
+
+}
+.navbar1{
+float: right;
+
+padding-right: 50px;
+
+height: auto;
+width: auto;
+font-size: large;
+margin-top: 80px;
+
+}
+.explore{
+    border: 1px red solid;
+    background-color: white;
+    color: red;
+    height: auto;
+    width: 100px;
+    margin-left: 100px;
+    border-radius: 25px;
+    padding: 1%;
+    text-align: center;
+
+
+}
+.cities{
+    
+    position: relative;
+    float: left;
+    border: 2px solid black;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    margin: 20px;
+    margin-top: 30px;
+    
+
+}
+div.cities:hover{
+    margin-top: -10px;
+
+}
+.explore:hover{
+    border: 1px white solid;
+    background-color: red;
+    color: white;
+    height: auto;
+    width: 100px;
+    margin-left: 100px;
+    border-radius: 25px;
+    padding: 1%;
+    text-align: center;
+}
